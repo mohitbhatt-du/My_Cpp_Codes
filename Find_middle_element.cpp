@@ -6,7 +6,7 @@
 
 int main()
 {
-    int i,t,sum{0},ans{0};
+    int i,t;
     int arr[5];
     std::cin >> t;
     while(t--)
